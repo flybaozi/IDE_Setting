@@ -2,4 +2,7 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
 </keymap>

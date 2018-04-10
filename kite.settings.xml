@@ -1,7 +1,0 @@
-<application>
-  <component name="kite">
-    <option name="quickDocFontSizeEnabled" value="true" />
-    <option name="showWelcomeNotification" value="false" />
-    <option name="editorMetricsEnabled" value="true" />
-  </component>
-</application>

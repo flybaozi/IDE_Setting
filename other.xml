@@ -1,0 +1,75 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="true" />
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3" value="false" />
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-46PeiZZ8/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-SDyx48LY/bin/python3" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-SDyx48LY/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/server-reZ9l1tv/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/server-xsHL8kws/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python3" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/sia2/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3" value="true" />
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-46PeiZZ8/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-SDyx48LY/bin/python3" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-SDyx48LY/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/server-reZ9l1tv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/server-xsHL8kws/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python3" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/sia2/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-46PeiZZ8/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-SDyx48LY/bin/python3" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/satellite-SDyx48LY/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/server-reZ9l1tv/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/server-xsHL8kws/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python3" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sia2-I-Z8p81p/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/sia2/bin/python" value="false" />
+        <entry key="/usr/local/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

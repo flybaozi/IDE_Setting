@@ -1,0 +1,53 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
+    <histories>
+      <item value="application difficulties" />
+      <item value="(self.model.application_difficulties ==" />
+      <item value="&quot;&quot;&quot;Return the first result of this ``Query`` or None if the result doesn't contain any row. first() applies a limit of one within the generated SQL, so that only one primary entity row is generated on the server side (note this may consist of multiple result rows if join-loaded collections are present). Calling :meth:`.Query.first` results in an execution of the underlying query. .. seealso:: :meth:`.Query.one` :meth:`.Query.one_or_none`" />
+      <item value="Integrity Error" />
+      <item value="nullable: When set to ``False``, will cause the &quot;NOT NULL&quot; phrase to be added when generating DDL for the column. When ``True``, will normally generate nothing (in SQL this defaults to &quot;NULL&quot;), except in some very specific backend-specific edge cases where &quot;NULL&quot; may render explicitly. Defaults to ``True`` unless :paramref:`~.Column.primary_key` is also ``True``, in which case it defaults to ``False``. This parameter is only used when issuing CREATE TABLE statements." />
+      <item value="Can't locate revision identified by" />
+      <item value="commute" />
+      <item value="incidental" />
+      <item value="overview" />
+      <item value="colleges" />
+      <item value="positions" />
+      <item value="&quot;&quot;&quot;Parse the string ``&quot;true&quot;`` or ``&quot;false&quot;`` as a boolean (case insensitive). Also accepts ``&quot;1&quot;`` and ``&quot;0&quot;`` as ``True``/``False`` (respectively). If the input is from the request JSON body, the type is already a native python boolean, and will be passed through without further parsing." />
+      <item value="&quot;&quot;&quot;Implement the ``IS NOT`` operator. Normally, ``IS NOT`` is generated automatically when comparing to a value of ``None``, which resolves to ``NULL``. However, explicit usage of ``IS NOT`` may be desirable if comparing to boolean values on certain platforms. .. versionadded:: 0.7.9" />
+      <item value="&quot;&quot;&quot; Backwards compatibility, in old releases app.extensions['migrate'] was set to db, and env.py accessed app.extensions['migrate'].metadata &quot;&quot;&quot;" />
+      <item value="&quot;&quot;&quot;Produce a conjunction of expressions joined by ``OR``." />
+      <item value="verbose" />
+      <item value="rests" />
+      <item value="get() got an unexpected keyword argument 'action'" />
+      <item value="&quot;&quot;&quot;Construct a new :class:`.TIMESTAMP`. :param timezone: boolean. Indicates that the TIMESTAMP type should enable timezone support, if available on the target database. On a per-dialect basis is similar to &quot;TIMESTAMP WITH TIMEZONE&quot;. If the target database does not support timezones, this flag is ignored." />
+      <item value="class TIMESTAMP(DateTime): &quot;&quot;&quot;The SQL TIMESTAMP type. :class:`~.types.TIMESTAMP` datatypes have support for timezone storage on some backends, such as PostgreSQL and Oracle. Use the :paramref:`~types.TIMESTAMP.timezone` argument in order to enable &quot;TIMESTAMP WITH TIMEZONE&quot; for these backends." />
+      <item value="E Diff is 1645 characters long. Set self.maxDiff to None to see it." />
+      <item value="accommodations" />
+      <item value="&quot;&quot;&quot;Produce a :func:`~.expression.nullslast` clause against the parent object.&quot;&quot;&quot;" />
+      <item value="attempted relative import beyond top-level package" />
+      <item value="ValueError: flask-restful blueprints can only be registered once." />
+      <item value="local object" />
+      <item value="&quot;&quot;&quot;Permanently redirects logging to the stdlib. This also removes all otherwise registered handlers on root logger of the logging system but leaves the other loggers untouched. :param set_root_logger_level: controls of the default level of the legacy root logger is changed so that all legacy log messages get redirected to Logbook" />
+      <item value="not implemented." />
+      <item value="# TODO need implement." />
+      <item value="Error creating backref 'student' on relationship 'Student.videos': property of that name exists on mapper 'Mapper|Video|t_videos'" />
+      <item value="&quot;&quot;&quot;Create a :class:`~sqlalchemy.orm.scoping.scoped_session` on the factory from :meth:`create_session`. An extra key ``'scopefunc'`` can be set on the ``options`` dict to specify a custom scope function. If it's not provided, Flask's app context stack identity is used. This will ensure that sessions are created and removed with the request/response cycle, and should be fine in most cases. :param options: dict of keyword arguments passed to session class in ``create_session``" />
+      <item value="response" />
+      <item value="# Set default logging handler to avoid &quot;No handler found&quot; warnings." />
+      <item value="Model Contract" />
+      <item value="install dependencies" />
+      <item value="collect static resources" />
+      <item value="Expected type 'Resource', got 'Type[CategoryResource]' instead" />
+      <item value="representations" />
+      <item value="Categories Resource" />
+      <item value="&quot;&quot;&quot;A mixin that can be used to mark a SQLAlchemy model class which implements a :func:`to_json` method. The :func:`to_json` method is used in conjuction with the custom :class:`JSONEncoder` class. By default this mixin will assume all properties of the SQLAlchemy model are to be visible in the JSON output. Extend this class to customize which properties are public, hidden or modified before being being passed to the JSON serializer. &quot;&quot;&quot;" />
+      <item value="&quot;&quot;&quot;Returns a role matching the given name or creates it with any additionally provided parameters." />
+      <item value="&quot;&quot;&quot;Registers a function to be run before the first request to this instance of the application. The function will be called without any arguments and its return value is ignored." />
+      <item value="&quot;&quot;&quot;Returns an instance of the service's model with the specified id or raises an 404 error if an instance with the specified id does not exist. :param id: the instance id" />
+      <item value="&quot;&quot;&quot;Returns the first instance found of the service's model filtered by the specified key word arguments." />
+      <item value="instance" />
+    </histories>
+  </component>
+</application>
